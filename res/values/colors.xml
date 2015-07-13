@@ -36,6 +36,7 @@
     <color name="blackish_selected">#0cffffff</color>
     <color name="transparent">#00000000</color>
 
+    <color name="green">#009999</color>
     <color name="hot_pink">#FF4081</color>
     <color name="hairline">#28ffffff</color>
     <color name="bright_foreground_light_disabled">#80000000</color>
